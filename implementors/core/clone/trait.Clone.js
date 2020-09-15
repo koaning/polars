@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["polars"] = [{"text":"impl Clone for Series","synthetic":false,"types":[]},{"text":"impl Clone for FillNoneStrategy","synthetic":false,"types":[]},{"text":"impl&lt;T&gt; Clone for ChunkedArray&lt;T&gt;","synthetic":false,"types":[]},{"text":"impl&lt;'df, 'selection_str&gt; Clone for GroupBy&lt;'df, 'selection_str&gt;","synthetic":false,"types":[]},{"text":"impl Clone for DataFrame","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

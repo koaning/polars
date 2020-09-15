@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Field","Contains the meta-data for a single relative type."],["Schema","Describes the meta-data of an ordered sequence of relative types."]],"trait":[["ArrowPrimitiveType","Trait indicating a primitive fixed-width type (bool, ints and floats)."],["LhsNumOps",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CsvReader","Creates a DataFrame after reading a csv."],["CsvWriter","Write a DataFrame to csv."],["ReaderBuilder","CSV file reader builder"],["WriterBuilder","A CSV writer builder"]]});
